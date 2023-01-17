@@ -5,7 +5,6 @@
 ### 👯 I’m looking to collaborate on exciting software projects using DevOps principles.
 ### 📫 How to reach me: iamrichardcn@gmail.com
 
-### Ongoing Projects Porfolio Pinned Below 👇👇
 
 
 <!--
