@@ -2,7 +2,7 @@
 
 ### 🔭 I’m a senior Data analyst currently transitioning into the DEVOPS and cloud computing
 ### 🌱 I’m a  currently working on DevOp projects, using tools like AWS, Jenkins, and Ansible.
-### 🌱 I’m currently learning to use containerization technologies like Docker and Kubernetes.
+### 🌱 I’m learning to use containerization technologies like Docker and Kubernetes.
 ### 👯 I’m looking to collaborate on exciting software projects using DevOps principles.
 ### 📫 How to reach me: iamrichardcn@gmail.com
 
