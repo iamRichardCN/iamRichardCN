@@ -1,9 +1,8 @@
 ### Hi there 👋
 
 ### 🔭 I’m a Data analyst currently transitioning into the MLOps and cloud computing
-### 🌱 I’m a  currently working on MLOps projects, using tools like AWS, Jenkins, and Ansible.
-### 🌱 I’m learning to use containerization technologies like Docker and Kubernetes.
-### 👯 I’m looking to collaborate on exciting software projects using MLOps principles.
+### 🌱 I’m a  currently working on MLOps projects, using tools like MLFLOW, and Docker.
+### 👯 I’m looking to collaborate on exciting data based projects using MLOps principles.
 ### 📫 How to reach me: iamrichardcn@gmail.com
 
 
@@ -13,7 +12,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on DevOp projects, using tools like AWS, Jenkins, IAC with Terraform, and Ansible.
+- 🔭 I’m currently working on Data science projects.
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
