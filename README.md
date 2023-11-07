@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### 🔭 I’m a Data analyst currently transitioning into the MLOps and cloud computing
+### 🔭 I’m a Data Scientist with experience in the finance, Heath and marketing domain
 ### 🌱 I’m a  currently working on MLOps projects, using tools like MLFLOW, and Docker.
 ### 👯 I’m looking to collaborate on exciting data based projects using MLOps principles.
 ### 📫 How to reach me: iamrichardcn@gmail.com
