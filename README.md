@@ -5,12 +5,7 @@
 ## 🚀 About Me
 I'm a full stack Data Scientist with a deep passion for developing innovative and impactful solutions using cutting-edge machine learning and artificial intelligence technologies. I specialize in transforming complex data into actionable insights and intelligent systems.
 
-
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/iamRichardCN/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richard-c-n/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Iam_RichardCN/)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamRichardCN&layout=compact)
 
 ## 🛠 Skills
 1. Python
@@ -21,6 +16,13 @@ I'm a full stack Data Scientist with a deep passion for developing innovative an
 6. Artificial Intelligence
 7. Data Science
 8. MLOps
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/iamRichardCN/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richard-c-n/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Iam_RichardCN/)
+
 
 
 ## My Journey
@@ -48,7 +50,6 @@ I'm a full stack Data Scientist with a deep passion for developing innovative an
 
 iamrichardcn@gmail.com
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamRichardCN&layout=compact)
 
 ![Logo](https://github-readme-stats.vercel.app/api?username=iamRichardCN&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
