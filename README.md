@@ -48,6 +48,7 @@ I'm a full stack Data Scientist with a deep passion for developing innovative an
 
 iamrichardcn@gmail.com
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamRichardCN&layout=compact)
 
 ![Logo](https://github-readme-stats.vercel.app/api?username=iamRichardCN&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
