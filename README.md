@@ -46,9 +46,6 @@ I'm a full stack Data Scientist with a deep passion for developing innovative an
 
 * Deep learning, machine learning algorithms, natural language processing, computer vision, and ethical AI practices.
 
-####   📫 How to reach me...
-
-iamrichardcn@gmail.com
 
 
 ![Logo](https://github-readme-stats.vercel.app/api?username=iamRichardCN&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
